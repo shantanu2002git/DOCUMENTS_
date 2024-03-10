@@ -1,0 +1,9 @@
+OOPS :
+https://leetcode.com/discuss/interview-question/3828150/OOPS-Cheatsheet-for-Interviews-or-30-questions
+
+https://www.geeksforgeeks.org/oops-interview-questions/
+
+https://algodaily.com/lessons/object-oriented-programming-interview-questions-cheat-sheet/cpp
+
+DBMS :
+https://leetcode.com/discuss/study-guide/3823497/dbms-cheatsheet-for-interviews-30-questions
